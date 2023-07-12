@@ -21,7 +21,7 @@ MyNotes App is designed to provide users with a convenient and efficient way to 
 
 ## Contact
 
-For any questions, feedback, or inquiries, please contact Nilesh Pawar(mailto:npawar025@gmail.com).
+For any questions, feedback, or inquiries, please contact Nilesh Pawar(npawar025@gmail.com).
 
 ---
 
